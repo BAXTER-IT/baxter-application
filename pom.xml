@@ -8,7 +8,7 @@
     </parent>
 
 	<artifactId>baxter-application-util</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.0</version>
 	<packaging>jar</packaging>
 	<name>Baxter Application Utilities</name>
 	<description>Utilities for Baxter Application</description>
@@ -16,7 +16,7 @@
 		<connection>scm:git:ssh://git@git.cloudbees.com/baxter/baxter-application.git</connection>
 		<developerConnection>scm:git:ssh://git@git.cloudbees.com/baxter/baxter-application.git</developerConnection>
 		<url>ssh://git@git.cloudbees.com/baxter/baxter-application.git</url>
-		<tag>HEAD</tag>
+		<tag>baxter-application-util-1.0</tag>
 	</scm>
 
 	<dependencies>
