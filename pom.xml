@@ -8,7 +8,7 @@
     </parent>
 
 	<artifactId>baxter-application-util</artifactId>
-	<version>1.0</version>
+	<version>1.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>Baxter Application Utilities</name>
 	<description>Utilities for Baxter Application</description>
@@ -24,6 +24,7 @@
 			<groupId>com.baxter.config</groupId>
 			<artifactId>baxter-config-client</artifactId>
 			<version>${config.version}</version>
+			<scope>provided</scope>
 		</dependency>
 	</dependencies>
 	<properties>
