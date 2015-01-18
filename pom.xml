@@ -14,10 +14,9 @@
 	<name>Baxter Application Utilities</name>
 	<description>Utilities for Baxter Application</description>
 	<scm>
-		<connection>scm:git:ssh://git@git.cloudbees.com/baxter/baxter-application.git</connection>
-		<developerConnection>scm:git:ssh://git@git.cloudbees.com/baxter/baxter-application.git</developerConnection>
-		<url>ssh://git@git.cloudbees.com/baxter/baxter-application.git</url>
-		<tag>HEAD</tag>
+		<connection>scm:git:ssh://git@github.com:BAXTER-IT/baxter-application.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com:BAXTER-IT/baxter-application.git</developerConnection>
+		<url>ssh://git@github.com:BAXTER-IT/baxter-application.git</url>
 	</scm>
 
 	<dependencies>
